@@ -34,10 +34,10 @@ define( 'DB_CACHE', '12' );
 */
 /** License key 
 Create it in the store, under "My Licenses" **/
-define( 'phpVibeKey', 'LITE-7RFW-690C-NZE0-6WD6' );
+define( 'phpVibeKey', 'LITE-8432-86DV-8Y97-351I' );
 
 /** Site url (with end slash, ex: http://www.domain.com/ ) **/
-define( 'SITE_URL', 'https://xxxpanthers.cf/' );
+define( 'SITE_URL', 'http://35.246.155.28/' );
 
 /** Admin folder, rename it and change it here **/
 define( 'ADMINCP', 'moderator' );
