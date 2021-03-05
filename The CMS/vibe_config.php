@@ -11,13 +11,13 @@ die();
 */
 
 /** MySQL database username */
-define( 'DB_USER', 'db user' );
+define( 'DB_USER', 'db_user' );
 
 /** MySQL database password */
-define( 'DB_PASS', 'db pass' );
+define( 'DB_PASS', 'P@s$w0rd123!' );
 
 /** The name of the database */
-define( 'DB_NAME', 'db name' );
+define( 'DB_NAME', 'db_name' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
@@ -34,10 +34,10 @@ define( 'DB_CACHE', '12' );
 */
 /** License key 
 Create it in the store, under "My Licenses" **/
-define( 'phpVibeKey', 'the key goes here' );
+define( 'phpVibeKey', 'LITE-7RFW-690C-NZE0-6WD6' );
 
 /** Site url (with end slash, ex: http://www.domain.com/ ) **/
-define( 'SITE_URL', 'https://www.domain.com/' );
+define( 'SITE_URL', 'https://xxxpanthers.cf/' );
 
 /** Admin folder, rename it and change it here **/
 define( 'ADMINCP', 'moderator' );
@@ -49,7 +49,7 @@ define( 'ADMINCP', 'moderator' );
 date_default_timezone_set('Europe/Bucharest');
 
 /** Your Paypal email **/
-define( 'PPMail', 'test@gmail.com' );
+define( 'PPMail', 'xxxpanthers@gmail.com' );
 /*
  ** Mail settings.
  */  
